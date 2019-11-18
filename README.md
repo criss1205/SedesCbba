@@ -1,2 +1,2 @@
 # SedesCbba
-implementacion MCS para Sedes cochabamba
+implementacion CMS para Sedes cochabamba
